@@ -12,6 +12,7 @@ I wanted to have a quick simple quiz to test my knowledge of javaScript so far.
 ## Contribution
 Please reach out first!
 ## Screen shots of this project
+<img width="1440" alt="Screenshot 2023-03-19 at 5 40 55 PM" src="https://user-images.githubusercontent.com/44388330/226211499-4c71d819-833d-4162-9fe1-417ad0b6d00e.png">
 
 ## Link to live site
 
