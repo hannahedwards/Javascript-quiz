@@ -4,7 +4,7 @@
 - [Description of this project](#Description)
 - [How to condribute to this project](#Contribution)
 - [Screen Shots of this project](#Screen-shots)
-- [Link to live site](#Link to live site)
+- [Link to live site] (#Link-to-live-site)
 - [Questions](#Email)
 - [My Github](#GitHub)
 - [Project license](#License)
